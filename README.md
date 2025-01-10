@@ -22,28 +22,12 @@ Clone the Repository
 bash
 Copy code
 git clone https://github.com/your-username/money-minscape.git
-cd money-minscape
-Install Required Dependencies
-It is recommended to use a virtual environment.
-
-bash
-Copy code
-pip install -r requirements.txt
-Run the Application
-
-bash
-Copy code
-python app.py
-Visit the Dashboard
-Open your browser and go to http://127.0.0.1:8050 to view the interactive dashboard.
 
 Usage
 
-Enter your income, expenses, and savings data through the provided input forms.
+Enter your income, expenses, and savings data through the provided input forms in the Excel sheet.
 Explore your financial data by interacting with the Sankey diagram and bar charts to identify trends, analyze spending, and track savings.
 Drill down for more granular insights into specific categories and timeframes.
-Contributing
-Feel free to fork the repository and submit pull requests to add new features or improve the existing ones. Please ensure to add relevant tests for new features or bug fixes.
 
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
